@@ -1,0 +1,114 @@
+{
+    "Servers" : {
+        "383588732198060032" : {
+            "Games" : {
+                "Allin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 43200,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Blackjack" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Coin" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 10,
+                    "Min" : 10,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "Cups" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Dice" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 500,
+                    "Min" : 50,
+                    "Multiplier" : 2.2,
+                    "Open" : true
+                },
+                "Hi-Lo" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20,
+                    "Min" : 20,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                },
+                "War" : {
+                    "Access Level" : 0,
+                    "Cooldown" : 5,
+                    "Max" : 20,
+                    "Min" : 20,
+                    "Multiplier" : 1.5,
+                    "Open" : true
+                }
+            },
+            "Memberships" : {},
+            "Players" : {
+                "141952245385134080" : {
+                    "Chips" : 160,
+                    "Cooldowns" : {
+                        "Allin" : 0,
+                        "Blackjack" : "2017-11-24T12:56:43.577639",
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "Payday" : 0,
+                        "Transfer" : 0,
+                        "War" : 0
+                    },
+                    "Membership" : null,
+                    "Name" : "Abdou.",
+                    "Pending" : 0,
+                    "Played" : {
+                        "Allin" : 0,
+                        "Blackjack" : 1,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    },
+                    "Won" : {
+                        "Allin" : 0,
+                        "Blackjack" : 1,
+                        "Coin" : 0,
+                        "Cups" : 0,
+                        "Dice" : 0,
+                        "Hi-Lo" : 0,
+                        "War" : 0
+                    }
+                }
+            },
+            "System Config" : {
+                "Casino Name" : "Redjumpman",
+                "Casino Open" : true,
+                "Chip Name" : "Jump",
+                "Chip Rate" : 1,
+                "Credit Rate" : 1,
+                "Default Payday" : 100,
+                "Payday Timer" : 1200,
+                "Threshold" : 10000,
+                "Threshold Switch" : false,
+                "Transfer Cooldown" : 30,
+                "Transfer Limit" : 1000,
+                "Version" : 1.722
+            }
+        }
+    }
+}

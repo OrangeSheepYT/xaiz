@@ -1,0 +1,26 @@
+{
+    "240535900436692992" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "374199081712746507" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "379543568479420426" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "383588732198060032" : {
+        "AGREE_CHANNEL" : null,
+        "AGREE_MSG" : null,
+        "ENABLED" : false,
+        "ROLE" : "383592534947004416"
+    }
+}

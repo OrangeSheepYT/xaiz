@@ -1,0 +1,14 @@
+{
+    "del" : [],
+    "delay" : 60,
+    "games" : [
+        "Half-Life 2",
+        "Halo: Combat Evolved",
+        "Rock-Paper-Scissors",
+        "Overwatch",
+        "Baseball",
+        "Jak & Daxter",
+        "Counter-Strike: Global Offensive",
+        "Chrono Trigger"
+    ]
+}

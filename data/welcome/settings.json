@@ -1,0 +1,29 @@
+{
+    "240535900436692992" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "240535900436692992",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!",
+            "Welcome {} to {}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "383588732198060032" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "383621756054667264",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!",
+            "Welcome to the server! :d",
+            "welcome {}!",
+            "Welcome {} to {}!",
+            "Welcome {} to {}!",
+            "Welcome {@} to {}!",
+            "Welcome {} to {}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    }
+}

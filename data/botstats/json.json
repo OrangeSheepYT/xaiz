@@ -1,0 +1,6 @@
+{
+    "MAINPREFIX" : "x!",
+    "MESSAGE" : "{} | {1} | {2}",
+    "SECONDS2LIVE" : 15,
+    "TOGGLE" : true
+}
